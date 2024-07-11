@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcxcxz&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 <!--
 **xcxcxz/xcxcxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
