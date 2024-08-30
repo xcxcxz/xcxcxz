@@ -3,10 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcxcxz&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Frontend:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flutter)](https://skillicons.dev)
 
 Backend:
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)
+
+DB:
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 DevOps:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
