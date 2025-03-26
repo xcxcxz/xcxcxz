@@ -9,10 +9,10 @@ Backend:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)
 
 DB:
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
 
 DevOps:
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,aws,docker)](https://skillicons.dev)
 
 Programs:
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vim,vscode)](https://skillicons.dev)
